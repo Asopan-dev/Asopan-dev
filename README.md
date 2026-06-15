@@ -17,6 +17,8 @@ public class Asopan {
     String degree      = "Diploma in Full Stack Web & App Development";
     String institute   = "DBIT of Kilinochchi (2025 Dec – 2026 May)";
 
+    String goal        = "Become a Strong Full Stack Engineer + Security Mindset Developer";
+
     String[] stack = {
         "Java", "Spring Boot", "React",
         "JavaScript", "HTML5", "CSS3",
@@ -25,14 +27,30 @@ public class Asopan {
 
     String[] currentlyLearning = {
         "Advanced Spring Boot & REST APIs",
-        "Game Development Concepts",
-        "AI Tools & Modern Technologies"
+        "Data Structures & Algorithms (DSA) 💡",
+        "Problem Solving & Coding Practice",
+        "AI Tools & Modern Development Workflows"
     };
 
-    String funFact = "I use AI tools to ship features faster 🤖";
+    String[] futureFocus = {
+        "Cyber Security Fundamentals 🔐",
+        "Ethical Hacking & Network Security",
+        "System Design Basics",
+        "Cloud & DevOps Exploration"
+    };
+
+    String[] interests = {
+        "Building Real-World Projects 🚀",
+        "Exploring AI & Automation 🤖",
+        "Cyber Security Research 🔐",
+        "Game Development Concepts 🎮",
+        "Open Source Contribution 🌍"
+    };
+
+    String funFact = "I use AI tools to learn faster and build smarter 🤖";
 
     String motto() {
-        return "Build things. Break things. Learn everything.";
+        return "Build. Break. Learn. Secure. Repeat.";
     }
 }
 
