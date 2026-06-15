@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:2563eb&amp;height=260&amp;text=Asopan%20Developer&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer&amp;descSize=18&amp;descAlignY=60&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:2563eb&amp;height=260&amp;text=Asopan&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer&amp;descSize=18&amp;descAlignY=60&amp;animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Asopan+%F0%9F%91%8B;Full+Stack+Developer+in+the+Making;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;Building+Real-World+Web+Apps+%F0%9F%9A%80)](https://git.io/typing-svg)
 
