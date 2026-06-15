@@ -15,7 +15,7 @@ public class Asopan {
     String name        = "Asopan Puspananthasivam";
     String location    = "Pallavarayankaddu, Sri Lanka";
     String degree      = "Diploma in Full Stack Web & App Development";
-    String institute   = "DBIT of Kilinochchi (2025 – Present)";
+    String institute   = "DBIT of Kilinochchi (2025 Dec – 2026 May)";
 
     String[] stack = {
         "Java", "Spring Boot", "React",
