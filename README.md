@@ -8,8 +8,7 @@
 
 ---
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
+```java
 public class Asopan {
 
     String name        = "Asopan Puspananthasivam";
@@ -53,7 +52,7 @@ public class Asopan {
         return "Build. Break. Learn. Secure. Repeat.";
     }
 }
-
+```
 
 <br clear="right"/>
 
@@ -82,7 +81,7 @@ public class Asopan {
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ---
 
 ## 📊 GitHub Stats
@@ -120,15 +119,6 @@ public class Asopan {
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=asopan-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 💼 Experience
 
@@ -193,11 +183,11 @@ public class Asopan {
 ## 🧠 Currently Learning
 
 ```
-🧱 Spring Boot    → Advanced REST APIs, Security, Microservices
-⚛️  React         → State Management, Hooks, Performance Optimization
-🎮 Game Dev       → Game Development Concepts & Fundamentals
+🧱 Spring Boot   → Advanced REST APIs, Security, Microservices
+⚛️ React         → State Management, Hooks, Performance Optimization
+🎮 Game Dev      → Game Development Concepts & Fundamentals
 🤖 AI & ML       → AI Tools Integration, Prompt Engineering
-🗄️  Databases     → MySQL Optimization, Query Performance
+🗄️ Databases     → MySQL Optimization, Query Performance
 ```
 
 ---
